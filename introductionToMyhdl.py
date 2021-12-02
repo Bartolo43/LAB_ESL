@@ -1,6 +1,3 @@
-#This file contains few tests made throughout reading introduction
-#Other files are tests taken from introduction itself
-
 from myhdl import block, Signal, delay,always, now, instances
 
 from ClkDriver import ClkDriver
